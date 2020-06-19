@@ -1,0 +1,6 @@
+[submodule "Plugins/OGB-Loco-Plugin"]
+	path = Plugins/OGB-Loco-Plugin
+	url = https://github.com/slambchops/OGB-Loco-Plugin
+[submodule "Plugins/OGB-GameplayCore-Plugin"]
+	path = Plugins/OGB-GameplayCore-Plugin
+	url = https://github.com/slambchops/OGB-GameplayCore-Plugin
