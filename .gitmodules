@@ -4,3 +4,6 @@
 [submodule "Plugins/OGB-GameplayCore-Plugin"]
 	path = Plugins/OGB-GameplayCore-Plugin
 	url = https://github.com/slambchops/OGB-GameplayCore-Plugin
+[submodule "Plugins/VoxelPlugin"]
+	path = Plugins/VoxelPlugin
+	url = https://github.com/Phyronnaz/VoxelPlugin
