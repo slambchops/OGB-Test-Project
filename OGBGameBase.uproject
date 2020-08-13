@@ -193,6 +193,11 @@
 			"Name": "PivotToolPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a11d86845d5a431195dffe2b677cd490"
+		},
+		{
+			"Name": "ThumbnailerLite",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d2c5ab29e4b54f5ea707fe691d0c9d35"
 		}
 	]
 }
